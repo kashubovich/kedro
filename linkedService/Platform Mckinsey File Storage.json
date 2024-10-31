@@ -1,0 +1,23 @@
+{
+	"name": "Platform Mckinsey File Storage",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"connectVia": {
+			"referenceName": "PlatformMckinseyIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		},
+		"type": "AzureFileStorage",
+		"typeProperties": {
+			"connectionString": {
+				"secretName": "datastore8d835a8-connection-string",
+				"store": {
+					"referenceName": "Platform Mckinsey Keyvault 2",
+					"type": "LinkedServiceReference"
+				},
+				"type": "AzureKeyVaultSecret"
+			},
+			"fileShare": ""
+		},
+		"annotations": []
+	}
+}

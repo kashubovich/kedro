@@ -1,0 +1,15 @@
+{
+	"name": "Platform Mckinsey Private Keyvault 2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"connectVia": {
+			"referenceName": "PlatformMckinseyIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		},
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://pvtkeyvault-8d835a8.vault.azure.net/"
+		},
+		"annotations": []
+	}
+}
