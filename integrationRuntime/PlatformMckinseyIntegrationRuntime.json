@@ -5,7 +5,7 @@
 		"description": "Platform Mckinsey Managed Integration Runtime",
 		"typeProperties": {
 			"computeProperties": {
-				"location": "East US 2",
+				"location": "North Central US",
 				"dataFlowProperties": {
 					"computeType": "General",
 					"coreCount": 8,

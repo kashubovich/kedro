@@ -8,7 +8,7 @@
 		},
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://pvtkeyvault-8d835a8.vault.azure.net/"
+			"baseUrl": "https://pvtkeyvault-39e80db.vault.azure.net/"
 		},
 		"annotations": []
 	}

@@ -1,0 +1,9 @@
+{
+	"name": "aza-datafactory-39e80db",
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12d70b33-f768-4016-99ab-efd4f9e9180a",
+		"tenantId": "b0257c14-cacc-44c6-8927-5b4ce5de0874"
+	}
+}

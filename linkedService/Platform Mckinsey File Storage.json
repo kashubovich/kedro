@@ -9,7 +9,7 @@
 		"type": "AzureFileStorage",
 		"typeProperties": {
 			"connectionString": {
-				"secretName": "datastore8d835a8-connection-string",
+				"secretName": "datastore39e80db-connection-string",
 				"store": {
 					"referenceName": "Platform Mckinsey Keyvault 2",
 					"type": "LinkedServiceReference"

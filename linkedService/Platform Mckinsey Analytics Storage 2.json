@@ -8,8 +8,8 @@
 		},
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://datastore8d835a8.dfs.core.windows.net",
-			"servicePrincipalId": "453da80c-d0c4-4f18-92ee-b4d7f592af72",
+			"url": "https://datastore39e80db.dfs.core.windows.net",
+			"servicePrincipalId": "b82fcb9b-ab07-415a-97fd-1f81469c2b93",
 			"servicePrincipalKey": {
 				"secretName": "datafactory-spi-secret",
 				"store": {
